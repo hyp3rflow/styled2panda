@@ -1,0 +1,8 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/": "https://deno.com/",
+    "https://deno.land/x/ts_morph/mod.ts": "https://deno.land/x/ts_morph@22.0.0/mod.ts"
+  },
+  "remote": {}
+}
